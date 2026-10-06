@@ -450,10 +450,10 @@ function App() {
                 <span>linkedin.com/in/jaydhandhukiya</span>
                 <ArrowUpRight size={17} />
               </a>
-              <div className="location-row">
+              {/* <div className="location-row">
                 <MapPin size={18} />
                 <span>{profile.location}</span>
-              </div>
+              </div> */}
             </div>
           </div>
         </section>
