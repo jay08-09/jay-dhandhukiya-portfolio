@@ -92,7 +92,7 @@ const projects = [
       "API integration and frontend data management",
       "Responsive customer-facing interfaces",
     ],
-    link: "https://estore.wiyak.shop",
+    link: "https://estore.wiyak.shop/397004234",
   },
   {
     title: "TMS — Transport Management System",
